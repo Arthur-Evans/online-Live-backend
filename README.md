@@ -1,5 +1,6 @@
 # online-Live-backend
 ## 在线直播系统后端 JDK17+Springboot+MybatisPlus+Redis+MySQL+WebSocket 
+## 项目接口文档地址：https://console-docs.apipost.cn/preview/e8b8c9ea9fd0ddcc/d3f48b8b2e802cad
 
 ## 项目亮点
 ##### 1.后端返回通用对象。告诉前端请求在业务层上成功还是失败，自定义错误码，发回类支持返回正常和错误；封装全局异常处理器；
